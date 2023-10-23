@@ -3,5 +3,3 @@
 The data sets can be downloaded through the following links.
 
 Coursework data: https://heriotwatt.sharepoint.com/:f:/s/Neamat_F21DLMaretial_2021/EmxhPglvG6tJlBaQbreJaqYBp5cLC_xxtbotEqUibnkFsQ
-
-Chosen data: https://www.kaggle.com/datasets/qnqfbqfqo/crime-data-from-2020-to-present/data
